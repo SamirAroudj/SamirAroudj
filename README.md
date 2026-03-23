@@ -6,8 +6,8 @@ checkout my [tutorial GitHub repository](https://github.com/SamirAroudj/AceNerds
 ## Where to Find me Online
 
 ### Social Media
-* [Instagram private](https://www.instagram.com/samir.aroudj/)
-* [Instgram work](https://www.instagram.com/acenerds/)
+* [Instagram (private)](https://www.instagram.com/samir.aroudj/)
+* [Instgram (work)](https://www.instagram.com/acenerds/)
 * [TikTok](https://www.tiktok.com/@acenerds)
 * [YouTube](https://www.youtube.com/@AceNerds)
 * [X](https://x.com/acenerds)
