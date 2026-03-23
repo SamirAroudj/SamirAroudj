@@ -4,11 +4,11 @@ ACEs: advanced content engines - little, fast, specialized neural networks to ma
 ## Where to Find me Online
 
 ### Social Media
-[Instagram private]([url](https://www.instagram.com/samir.aroudj/)) 
-[Instgram work]([url](https://www.instagram.com/acenerds/))
-[TikTok]([url](https://www.tiktok.com/@acenerds))
-[YouTube]([url](https://www.youtube.com/@AceNerds))
-[X]([url](https://x.com/acenerds))
+* [Instagram private](https://www.instagram.com/samir.aroudj/)
+* [Instgram work](https://www.instagram.com/acenerds/)
+* [TikTok](https://www.tiktok.com/@acenerds)
+* [YouTube](https://www.youtube.com/@AceNerds)
+* [X](https://x.com/acenerds)
 
 ### AceNerds - Content Creation Made Fast & Easy
 If you are interested in faster content creation, especially, efficient high-quality character animation,
