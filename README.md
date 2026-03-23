@@ -1,4 +1,18 @@
-## Hi there 👋
+## What I work on
+ACEs: advanced content engines - little, fast, specialized neural networks to make content creation easier.
+
+## Where to Find me Online
+
+### Social Media
+[Instagram private]([url](https://www.instagram.com/samir.aroudj/)) 
+[Instgram work]([url](https://www.instagram.com/acenerds/))
+[TikTok]([url](https://www.tiktok.com/@acenerds))
+[YouTube]([url](https://www.youtube.com/@AceNerds))
+[X]([url](https://x.com/acenerds))
+
+### AceNerds - Content Creation Made Fast & Easy
+If you are interested in faster content creation, especially, efficient high-quality character animation,
+then have a look at [Acenerds.com](https://www.acenerds.com).
 
 <!--
 **SamirAroudj/SamirAroudj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
