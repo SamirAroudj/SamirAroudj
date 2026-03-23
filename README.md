@@ -1,5 +1,7 @@
 ## What I work on
 ACEs: advanced content engines - little, fast, specialized neural networks to make content creation easier.
+If you are interested in some of my insights about content creation or speeding up your processes,
+checkout my [tutorial GitHub repository](https://github.com/SamirAroudj/AceNerds) or the [AceNerds knowledge library](https://www.acenerds.com/learning).
 
 ## Where to Find me Online
 
